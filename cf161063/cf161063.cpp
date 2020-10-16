@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-int x, y, z;;
+int x, y, z;
 void sq(){
 
             for (int i = 0; i < x; i++) {
